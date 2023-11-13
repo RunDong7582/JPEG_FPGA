@@ -1,0 +1,10 @@
+﻿  JPEG_FPGA.cpp
+D:\vscode\cpp\JPEG_FPGA\JPEG_FPGA\jpeg_dqt.h(61,20): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+D:\vscode\cpp\JPEG_FPGA\JPEG_FPGA\jpeg_dht.h(99,28): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\vscode\cpp\JPEG_FPGA\JPEG_FPGA\jpeg_dht.h(102,20): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+D:\vscode\cpp\JPEG_FPGA\JPEG_FPGA\jpeg_bit_buffer.h(93,18): warning C4244: “return”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+D:\vscode\cpp\JPEG_FPGA\JPEG_FPGA\JPEG_FPGA.cpp(86,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vscode\cpp\JPEG_FPGA\JPEG_FPGA\JPEG_FPGA.cpp(87,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vscode\cpp\JPEG_FPGA\JPEG_FPGA\JPEG_FPGA.cpp(88,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vscode\cpp\JPEG_FPGA\JPEG_FPGA\JPEG_FPGA.cpp(293,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  JPEG_FPGA.vcxproj -> D:\vscode\cpp\JPEG_FPGA\x64\Debug\JPEG_FPGA.exe
